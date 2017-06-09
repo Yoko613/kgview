@@ -24,14 +24,14 @@
 
 ## 7.试题解析方案
 ![图片](http://bos.nj.bpc.baidu.com/v1/agroup/d9017bbba6dcd450e7ffc17f6e6a9d1e8968f76a)
-
+![](file:///)
 ## 8. 项目目录结构
 ```html
 ├─wenku-wapapp-kgview
 │  ├─client                 # 前端代码
-│  │  ├─page               # 前端页面
-│  │  ├─static             # 前端非模块化静态资源
-│  │  └─widget             # 前端组件
+│  │  ├─page                # 前端页面
+│  │  ├─static              # 前端非模块化静态资源
+│  │  └─widget              # 前端组件
 │  └─server                 # 后端代码
 │      ├─action             # action是指MVC中的路由动作，处理页面请求
 │      ├─lib                # 可以存放一些通用库
