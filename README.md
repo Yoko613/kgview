@@ -23,8 +23,7 @@
 
 
 ## 7.试题解析方案
-![图片](http://bos.nj.bpc.baidu.com/v1/agroup/d9017bbba6dcd450e7ffc17f6e6a9d1e8968f76a)
-![](file:///)
+![图片](https://bos.nj.bpc.baidu.com/v1/agroup/d9017bbba6dcd450e7ffc17f6e6a9d1e8968f76a)
 ## 8. 项目目录结构
 ```html
 ├─wenku-wapapp-kgview
